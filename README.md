@@ -1,4 +1,4 @@
-## Hi there, I'm Shravan 👋
+##👋 Hi there, I'm Shravan Patel
 - 🔭 I’m currently a PhD student at the University of Wisconsin-Madison
 - 🌱 I’m currently working on Superconducting qubits and Quantum Computing
 - 📫 You can contact me through my LinkedIn profile [Shravan Patel](www.linkedin.com/in/shravan-patel-57293b188) or email me at shravanpatel4@[the Google mail service](www.gmail.com)
